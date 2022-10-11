@@ -1,3 +1,3 @@
-# Test AB
+# Release Metrics
 
-Might become a home for ab testing
+Release what user want!
